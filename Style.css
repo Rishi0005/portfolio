@@ -1,0 +1,196 @@
+*{
+	margin:0px;
+	padding:3px;
+}
+	 .bod{
+	    border-bottom: 0.1px solid #808080;
+}
+
+header a {
+	word-spacing:-3px; 
+}
+
+
+.menu
+{
+	font-size: large;
+    display: flex;
+    text-decoration: none;
+    font-family: cursive;
+    list-style-type: none;
+}
+
+.image
+{
+text-align: center;
+margin-top:50px;
+}
+
+.headings{
+	text-align: center;
+	font-weight:bold;
+	font-size:30px;
+
+}
+
+.sub-heading{
+	text-align: center;
+	font-size:25px;
+	color:silver;	
+}
+
+.btn{
+	text-align: center;
+	text-decoration:none;
+	text-decoration-line:none;
+}
+.btn button{
+	
+	color:white;
+	text-align: center;
+	border:darkblue;
+	font-size:16px;
+	background-color:#66BFBF;
+	padding:14px 40px;
+	cursor:pointer;
+	text-decoration:none;
+	text-decoration-line:none; 
+
+}
+
+.btn a{
+	text-decoration: none;
+}
+
+
+.extra{
+	padding-top: 100px;
+    margin-top: 20px;
+    margin-bottom: -60px;
+    margin-left: 150px;
+}
+.extra h4{
+	font-size:25px;
+
+}
+.extra p{
+	font-size:20px;
+}
+
+.extra.btn__2{
+	text-align: end;
+}
+.btn__2 a{
+	text-decoration: none;
+
+}
+
+.btn__2{
+	text-align:end;
+	border-color:#0066ff;
+
+}
+
+.btn__2 button{
+
+	color:#0066ff;
+	
+	text-align: center;
+	border:darkblue;
+	font-size:16px;
+	cursor:pointer;
+	padding:15px 30px;
+	text-decoration:none;
+	text-decoration-line:none; 
+	margin-right: 159px;
+}
+.row{
+	    border-bottom: 0.1px solid #808080;
+}
+ul{
+	list-style: none;
+
+}
+.row img 
+{
+	margin-left: 145px;
+    margin-top: 15px;
+    border-radius: 12px;
+    height: 330px;
+	box-shadow: 0px 10px 6px 1px;
+}
+
+.lines h5{
+	margin-left: 50px;
+    margin-top: 12px;
+    font-size: 20px;
+    font-family: cursive;
+    color: silver;
+
+}
+
+
+
+.lines p
+
+{
+    margin-left: 50px;
+    margin-top: 5px;
+    font-size: 15px;
+    font-family: cursive;
+    color: silver;	
+}
+
+.rate p{
+    margin-top: -31px;
+    margin-left: 424px;
+}
+
+ul li .lines {
+	margin-left:98px;
+}
+
+footer{
+	margin-left: 107px;
+	padding:12px;
+
+}
+.bottom
+{
+
+	border-bottom:0.1px solid #808080;
+}
+
+.bottom p{
+	margin-left:15px;
+}
+
+.bottom1{
+	margin-left: 777px;
+    margin-bottom: 17px;
+    margin-top: -45px;
+}	
+
+.bottom1 button{
+		
+	font-size: 14px;
+    padding: 6px 32px;
+    cursor: pointer;
+    background-color: rebeccapurple;
+    color: white;
+}
+	
+
+.bottom1 input
+{
+	font-size:12px;
+	padding:7px 20px;
+		
+}
+
+.end ul li{
+	word-spacing: -3px;	
+}
+.end ul{
+display: flex;
+}
